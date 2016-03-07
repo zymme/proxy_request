@@ -1,0 +1,8 @@
+{
+  "report": {
+    "name": "sample report",
+    "date_created": "02/19/2016",
+    "type": "fake",
+    "description": "Description goes here"
+  }
+}

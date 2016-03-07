@@ -1,0 +1,14 @@
+{
+  "name": "samplenodeapi",
+  "main": "server.js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "jwt-simple": "^0.4.1",
+    "mongoose": "^4.4.3",
+    "request": "^2.69.0"
+  }
+}
